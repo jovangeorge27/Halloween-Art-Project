@@ -1,0 +1,17 @@
+Game Idea:
+
+The ghost starts off with three hearts
+
+Ghost goes in the right direction and can only jump 
+
+There will be obstacles in the ghost's way 
+
+If the ghost passes the obstacles without touching it, we add a score (100) (The obstacles are pumpkins)
+
+Every the score gets higher, the speed randomly gets higher (there is a range on how fast it can go)
+
+If the ghost touches the obstacles, then the ghost loses a heart
+
+After:
+
+We can add like shop or something
